@@ -7,7 +7,7 @@ import io
 
 st.set_page_config(page_title="ADME Predictor", layout="centered")
 
-st.title("🧪 ADME Predictor")
+st.title("ADME Predictor")
 st.write("Predict physicochemical properties from a SMILES string using RDKit.")
 
 # -----------------------------
